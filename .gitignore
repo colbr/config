@@ -1,6 +1,10 @@
-# ignore everything...
 *
-
-# apart from...
 !.gitignore
+
+# nvim
 !nvim/
+!nvim/**
+packer_compiled.lua
+
+# other
+.DS_Store
