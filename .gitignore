@@ -1,0 +1,6 @@
+# ignore everything...
+*
+
+# apart from...
+!.gitignore
+!nvim/
