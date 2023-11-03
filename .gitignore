@@ -7,5 +7,9 @@
 !nvim/**
 packer_compiled.lua
 
+# kitty
+!kitty/
+!kitty/**
+
 # other
 .DS_Store
