@@ -1,1 +1,1 @@
-require("colbr.packer")
+require("colbr")
